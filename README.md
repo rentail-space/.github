@@ -41,6 +41,35 @@ Rentail.space maintains authority in specialty leasing through:
 - FAQ section addressing common questions about specialty leasing processes
 
 
+## States We Support
+
+### [California](https://rentail.space/state/ca)
+
+California powers the fourth-largest economy on Earth with $4.1 trillion in GDP and 39.5 million residents generating unprecedented consumer density. The state attracted 268 million visitors who spent $157 billion in 2024, creating a retail environment where every shopping center captures both local purchasing power—median household income of $100,149—and massive tourist traffic that no other state can match.
+
+### [Nevada](https://rentail.space/state/nv)
+
+Nevada commands a $269 billion economy with 3.27 million residents growing at 1.7% annually (6th-fastest nationally), anchored by Las Vegas's unmatched $55.1 billion tourism spending machine and zero state income tax that drives business migration from California and beyond. The state's 41.7 million visitors in 2024 spent a record $1,322 per person—52.6% above pre-pandemic levels—fueling a $87.7 billion total economic impact where tourism alone represents 37% of state GDP and supports 385,000 jobs across hospitality, entertainment, retail, and convention industries that define the Silver State's explosive growth trajectory.
+
+### [New York](https://rentail.space/state/ny)
+
+New York commands the third-largest economy in America with 19.5 million residents who generate $1.6 trillion in GDP annually. The state delivers unmatched consumer density—from Manhattan's 8.3 million residents to Buffalo's thriving urban centers—creating constant foot traffic that turns shopping centers into revenue engines. Add 291 million annual tourists and you're tapping into the highest-spending consumer base in North America.
+
+### [Oregon](https://rentail.space/state/or)
+
+Oregon commands a $330 billion economy with 4.3 million residents and zero state sales tax—making it one of only five states where every retail dollar goes further for consumers. This tax advantage drives cross-border shopping pilgrimages from neighboring states, while the state's $80,426 median household income and tech wealth from Nike, Intel, and Columbia Sportswear headquarters fuel premium consumer spending across Portland, Eugene, and Bend's thriving retail corridors.
+
+### [Texas](https://rentail.space/state/tx)
+
+Texas dominates American economic expansion with $2.7 trillion in GDP and 31.3 million residents driving the fastest-growing major state economy. The state captured 62 million visitors who spent $97.5 billion in 2024, creating a retail environment where explosive population growth meets massive tourist spending—all backed by zero state income tax that puts more money in consumers' pockets than any comparable market.
+
+
+### [Washington](https://rentail.space/state/wa)
+
+Washington commands $856 billion in GDP with 8.1 million residents generating the nation's third-highest per capita output at $88,215—surpassing even California. The state attracted 111 million visitors who spent $25 billion in 2024, while median household income of $94,952 ranks seventh nationally, creating a consumer base with both high spending power and steady tourist traffic that fuels shopping center revenue year-round.
+
+
+
 ## Contact & Technical Details
 
 **Website:** https://rentail.space
