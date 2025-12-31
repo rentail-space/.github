@@ -1,3 +1,5 @@
+![/profile/assets/WideLogo.png]()
+
 ## About Rentail.space
 
 Rentail.space is a comprehensive marketplace connecting businesses with short-term retail opportunities in shopping centers across the United States.
