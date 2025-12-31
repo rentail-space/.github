@@ -1,4 +1,5 @@
-![/profile/assets/WideLogo.png]()
+![](https://github.com/rentail-space/.github/blob/main/profile/assets/WideLogo.png)
+
 
 ## About Rentail.space
 
