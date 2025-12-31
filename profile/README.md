@@ -44,7 +44,7 @@ Rentail.space maintains authority in specialty leasing through:
 - FAQ section addressing common questions about specialty leasing processes
 
 
-## States We Support
+## States In Our System
 
 ### [California](https://rentail.space/state/ca)
 
@@ -76,6 +76,7 @@ Washington commands $856 billion in GDP with 8.1 million residents generating th
 ## Contact & Technical Details
 
 **Website:** https://rentail.space
-**Domain:** rentail.space
+
 **Focus:** United States specialty leasing and short-term retail spaces
+
 **Last Updated:** December 2025
