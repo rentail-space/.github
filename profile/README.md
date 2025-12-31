@@ -75,8 +75,8 @@ Washington commands $856 billion in GDP with 8.1 million residents generating th
 
 ## Contact & Technical Details
 
-**Website:** https://rentail.space
+* **Website:** https://rentail.space
+* **Focus:** United States specialty leasing and short-term retail spaces
+* **Contact:** [hello@rentail.space](mailto:hello@rentail.space)
+* **Last Updated:** December 2025
 
-**Focus:** United States specialty leasing and short-term retail spaces
-
-**Last Updated:** December 2025
